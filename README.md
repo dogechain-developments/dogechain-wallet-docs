@@ -90,7 +90,7 @@ The wallet needs no separate node, account or extra dependency: the installer is
 
 ---
 
-## 📚 Guides
+## 📚 Guides.
 
 | Guide | What it covers |
 |:--|:--|
