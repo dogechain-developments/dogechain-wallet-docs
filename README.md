@@ -76,7 +76,7 @@ The wallet needs no separate node, account or extra dependency: the installer is
 
 ---
 
-## ⚙️ Features
+## ⚙️ Features.
 
 - **SPV sync** — downloads block headers only, so first sync takes minutes and the wallet store stays under 100 MB instead of the 150+ GB full chain.
 - **Non-custodial keys** — private keys are generated and encrypted on your device and are never transmitted to a server.
